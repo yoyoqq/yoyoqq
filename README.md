@@ -108,12 +108,6 @@ My expertise includes large language models, MLOps workflows, cloud platforms (A
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yoyoqq&icon=0&color=0" alt="profile visits"/>
-  </a>
-</p>
-
 
 ## 🏆 LeetCode Progress
 
