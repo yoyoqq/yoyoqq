@@ -48,3 +48,10 @@ My expertise includes large language models, MLOps workflows, cloud platforms (A
 [![](https://visitcount.itsvg.in/api?id=yoyoqq&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🏆 LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yagolxuchen?theme=light&font=Baloo%20Paaji%202)
+
+
+
