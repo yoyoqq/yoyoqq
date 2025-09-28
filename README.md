@@ -95,11 +95,24 @@ My expertise includes large language models, MLOps workflows, cloud platforms (A
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yoyoqq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoqq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=yoyoqq&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoyoqq&theme=dark&hide_border=false" alt="streak stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoqq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top languages"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=yoyoqq&icon=0&color=0" alt="profile visits"/>
+  </a>
+</p>
 
 
 ## 🏆 LeetCode Progress
