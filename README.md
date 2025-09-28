@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+there!+I'm+Yagol;Software+Engineer+%7C+ML+Engineer;Building+scalable+AI+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Hi+there!+I'm+Yagol;Software+Engineer+%7C+ML+Engineer;Building+scalable+AI+pipelines)](https://git.io/typing-svg)
 
 
 ## 🚀 About Me
@@ -29,8 +29,12 @@ My expertise includes large language models, MLOps workflows, cloud platforms (A
 - **Student Record Administrator** at Kings College London handling data entry and verification of records
 - **AI Engineer** at Verified by Maudsley developing RAG pipelines & AI evaluation agents
 - **Research Developer** at University of Greenwich identifying vulnerabilities and testing open source projects
-- **BSc Sotware Engineering**
-- **MSc Artificial Intelligence**
+
+
+🎓 **Education**  
+- 🎓 **BEng Software Engineering** – University of Greenwich (First Class Honours)  
+- 🤖 **MSc Artificial Intelligence** – King’s College London (Ongoing)  
+
 
 
 # 💻 Tech Stack:
