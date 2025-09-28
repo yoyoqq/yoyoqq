@@ -112,6 +112,13 @@ My expertise includes large language models, MLOps workflows, cloud platforms (A
 ## 🏆 LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yagolxuchen?theme=light&font=Baloo%20Paaji%202)
+## 🏆 Competitive Programming  
+
+<p align="left">
+  <a href="https://codeforces.com/profile/synphony" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</p>
 
 
 ## 🤝 Connect with Me  
