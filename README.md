@@ -41,6 +41,10 @@ My expertise includes large language models, MLOps workflows, cloud platforms (A
   <table>
     <tr>
       <td align="center">
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+        <br>C++
+      </td>
+      <td align="center">
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
         <br>Python
       </td>
@@ -49,30 +53,26 @@ My expertise includes large language models, MLOps workflows, cloud platforms (A
         <br>PyTorch
       </td>
       <td align="center">
-        <img width="50" src="https://huggingface.co/front/assets/huggingface_logo.svg"/>
-        <br>HuggingFace
-      </td>
-      <td align="center">
         <img width="50" src="https://python.langchain.com/img/brand/wordmark.png"/>
         <br>LangChain
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-        <br>Google Cloud
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+        <br>React
+      </td>
+      <td align="center">
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+        <br>Azure
+      </td>
+      <td align="center">
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+        <br>AWS
       </td>
       <td align="center">
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
         <br>Docker
-      </td>
-      <td align="center">
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-        <br>Kubernetes
-      </td>
-      <td align="center">
-        <img width="50" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
-        <br>Streamlit
       </td>
     </tr>
   </table>
