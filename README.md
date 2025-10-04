@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&width=435&lines=Hi+there!+I'm+Yagol;Software+Engineer+%7C+ML+Engineer;Building+scalable+AI+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&width=435&lines=Hi+there!+I'm+Yagol;Software+Engineer+%7C+ML+Engineer;Building+scalable+AI+pipelines)](https://git.io/typing-svg)
 
 
 ## 🚀 About Me
