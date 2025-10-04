@@ -28,7 +28,7 @@ My expertise includes large language models, MLOps workflows, cloud platforms (A
 **🎯 Professional Highlights:**
 - **Student Record Administrator** at Kings College London handling data entry and verification of records
 - **AI Engineer** at Verified by Maudsley developing RAG pipelines & AI evaluation agents
-- **Research Developer** at University of Greenwich identifying vulnerabilities and testing open source projects
+- **Research Developer** at University of Greenwich identifying vulnerabilities in smart devices and testing open source projects
 
 
 🎓 **Education**  
